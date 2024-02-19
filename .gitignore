@@ -1,4 +1,6 @@
 node_modules/
 coverage/
+custom-outputs/
+test-destination/
 .vscode/*
 !.vscode/extensions.json
